@@ -1,4 +1,5 @@
-'use strict';
+/* global describe it */
+/* eslint-disable no-console */
 
 var expect = require('chai').expect;
 var checkNodeVersion = require('../lib/check-node-version');

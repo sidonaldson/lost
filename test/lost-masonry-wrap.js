@@ -1,4 +1,4 @@
-'use strict';
+/* global describe it */
 
 var check = require('./check');
 
